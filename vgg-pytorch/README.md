@@ -1,5 +1,10 @@
 # pytorch-vgg-cifar10
-credited to [chengyangfu](https://github.com/chengyangfu/pytorch-vgg-cifar10)
+PS:
+{
+	credited to [chengyangfu](https://github.com/chengyangfu/pytorch-vgg-cifar10)
+
+	It could be runned on python3 with CPU after adjustment.
+}
 
 This is the PyTorch implementation of VGG network trained on CIFAR10 dataset 
 
